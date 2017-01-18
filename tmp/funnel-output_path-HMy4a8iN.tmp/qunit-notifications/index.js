@@ -1,0 +1,1 @@
+/Users/tomas/projects/emberTodo/tmp/funnel-input_base_path-6am1anUs.tmp/index.js
