@@ -1,1 +1,0 @@
-{"modulePrefix":"ember-todo","environment":"test","rootURL":"/","locationType":"none","EmberENV":{"FEATURES":{},"EXTEND_PROTOTYPES":{"Date":false}},"APP":{"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"ember-todo","version":"0.0.0+9419326f"},"exportApplicationGlobal":true}
