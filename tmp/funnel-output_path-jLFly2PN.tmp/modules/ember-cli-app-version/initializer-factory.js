@@ -1,0 +1,1 @@
+/Users/tomas/projects/emberTodo/tmp/funnel-input_base_path-ONq3jepw.tmp/initializer-factory.js

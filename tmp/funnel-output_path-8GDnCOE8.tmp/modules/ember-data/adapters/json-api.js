@@ -1,0 +1,1 @@
+/Users/tomas/projects/emberTodo/tmp/funnel-input_base_path-bBgavkjl.tmp/adapters/json-api.js

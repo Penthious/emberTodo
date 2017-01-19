@@ -1,3 +1,0 @@
-define("ember-todo/templates/tasks", ["exports"], function (exports) {
-  exports["default"] = Ember.HTMLBars.template({ "id": "rBpqjeTs", "block": "{\"statements\":[[\"append\",[\"unknown\",[\"outlet\"]],false],[\"text\",\"\\n\"],[\"open-element\",\"h1\",[]],[\"flush-element\"],[\"text\",\"Tasks\"],[\"close-element\"],[\"text\",\"\\n\\n\"]],\"locals\":[],\"named\":[],\"yields\":[],\"blocks\":[],\"hasPartials\":false}", "meta": { "moduleName": "ember-todo/templates/tasks.hbs" } });
-});
