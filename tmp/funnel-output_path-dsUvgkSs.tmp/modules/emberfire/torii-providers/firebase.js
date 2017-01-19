@@ -1,0 +1,1 @@
+/Users/tomas/projects/emberTodo/tmp/funnel-input_base_path-yxRNbAPf.tmp/torii-providers/firebase.js
